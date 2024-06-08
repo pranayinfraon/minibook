@@ -5,5 +5,5 @@ its a mini social networking application for communicating in internal teams
 
 1. **Clone the repository:**
    ```sh
-   git clone 
-   cd your-repository-name
+   git clone https://github.com/pranayinfraon/minibook.git
+   cd minibook
