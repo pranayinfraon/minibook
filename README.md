@@ -18,5 +18,7 @@ its a mini social networking application for communicating in internal teams
    python manage.py migrate
 
 4.**run the server**
-   python manage.py runserver <ip:port>
+   python manage.py runserver
+5.**
+Open your browser and go to http://localhost:8000.
    
